@@ -1,6 +1,9 @@
-### Demo Test page
+### Hello World 👋
 
-## subheader
+## My name is Griffin Jones, an Honors Student at Santa Clara Univerity Majoring in Computer Science
+
+
+
 
 <!--
 **GriffinWJones/GriffinWJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
