@@ -1,6 +1,6 @@
-### Hello World 👋
+# Hello World 👋
 
-## My name is Griffin Jones, an Honors Student at Santa Clara Univerity Majoring in Computer Science
+### My name is Griffin Jones, an Honors Student at Santa Clara Univerity Majoring in Computer Science
 
 
 
