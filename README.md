@@ -1,34 +1,42 @@
-# Hello World, I'm Griffin Jones 👋
+<h1 align="center">Hello World, I'm Griffin Jones 👋</h1>
 
-## About Me
+
+## 📚 About Me
 - University: Honors Student at Santa Clara University
 - Major: Computer Science
 
-## About This Repository
+<br>
+
+## 💼 About This Repository
 This repository showcases my personal projects and accomplishments in the field of computer science. Feel free to explore and provide any feedback or suggestions.
 
-## Languages and Tools
+<br>
 
-[![C++](assets/cplusplus.svg =40x40)](https://your-language-link) 
-[![Java](assets/java.svg =40x40)](https://your-language-link)
-[![C#](assets/csharp.svg =40x40)](https://your-language-link)
-[![Python](assets/python.svg =40x40)](https://your-language-link)
-[![Dart](assets/dart.svg =40x40)](https://your-language-link)
+## 🔧 Languages and Tools
 
-## Projects
-- Project 1: [Project Name](https://your-project-link)
-  - Description: Briefly describe the project and its purpose.
-  - Technologies: List the technologies used in this project.
-  - Accomplishments: Highlight any significant achievements or outcomes from this project.
+<p align="center">
+  <img src="assets/cplusplus.svg" alt="C++" width="40" height="40">
+  <img src="assets/java.svg" alt="Java" width="40" height="40">
+  <img src="assets/csharp.svg" alt="C#" width="40" height="40">
+  <img src="assets/python.svg" alt="Python" width="40" height="40">
+  <img src="assets/dart.svg" alt="Dart" width="40" height="40">
+  <img src="assets/unity.svg" alt="Dart" width="40" height="40">
+</p>
 
-- Project 2: [Project Name](https://your-project-link)
-  - Description: Briefly describe the project and its purpose.
-  - Technologies: List the technologies used in this project.
-  - Accomplishments: Highlight any significant achievements or outcomes from this project.
+## 🚀 Projects
+
+<br>
+
+- Project 1: **Video Game Development**
+  - **Description:** Throughout the years I've made videogames using C# and the unity game engine. I also draw all of my own art, create most
+  of my own sounds, and compose my own music. I've games uploaded on itch.io as well as one on steam.
+
+<br>
 
 
-## Contact Me
-- Email: griffinwoodjones@gmail.com
-- LinkedIn: https://www.linkedin.com/in/griffin-jones-647615274/
+## 📫 Contact Me
+- **Email:** griffinwoodjones@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/griffin-jones-647615274/](https://www.linkedin.com/in/griffin-jones-647615274/)
 
+<br>
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
