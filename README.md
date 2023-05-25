@@ -26,9 +26,6 @@ This repository showcases my personal projects and accomplishments in the field 
   - Technologies: List the technologies used in this project.
   - Accomplishments: Highlight any significant achievements or outcomes from this project.
 
-## Education
-- Santa Clara University, Bachelor of Science in Computer Science, Honors Program
-- Year of Graduation: 2026
 
 ## Contact Me
 - Email: griffinwoodjones@gmail.com
