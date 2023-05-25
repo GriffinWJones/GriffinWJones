@@ -1,21 +1,37 @@
-# Hello World 👋
+# Hello World, I'm Griffin Jones 👋
 
-### My name is Griffin Jones, an Honors Student at Santa Clara Univerity Majoring in Computer Science
+## About Me
+- University: Honors Student at Santa Clara University
+- Major: Computer Science
 
+## About This Repository
+This repository showcases my personal projects and accomplishments in the field of computer science. Feel free to explore and provide any feedback or suggestions.
 
+## Languages and Tools
 
+[![C++](https://your-icon-link)](https://your-language-link)
+[![Java](https://your-icon-link)](https://your-language-link)
+[![C#](https://your-icon-link)](https://your-language-link)
+[![Python](https://your-icon-link)](https://your-language-link)
+[![Dart](https://your-icon-link)](https://your-language-link)
 
-<!--
-**GriffinWJones/GriffinWJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- Project 1: [Project Name](https://your-project-link)
+  - Description: Briefly describe the project and its purpose.
+  - Technologies: List the technologies used in this project.
+  - Accomplishments: Highlight any significant achievements or outcomes from this project.
 
-Here are some ideas to get you started:
+- Project 2: [Project Name](https://your-project-link)
+  - Description: Briefly describe the project and its purpose.
+  - Technologies: List the technologies used in this project.
+  - Accomplishments: Highlight any significant achievements or outcomes from this project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- Santa Clara University, Bachelor of Science in Computer Science, Honors Program
+- Year of Graduation: 2026
+
+## Contact Me
+- Email: griffinwoodjones@gmail.com
+- LinkedIn: https://www.linkedin.com/in/griffin-jones-647615274/
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
