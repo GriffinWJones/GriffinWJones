@@ -9,11 +9,11 @@ This repository showcases my personal projects and accomplishments in the field 
 
 ## Languages and Tools
 
-[![C++](https://your-icon-link)](https://your-language-link)
-[![Java](https://your-icon-link)](https://your-language-link)
-[![C#](https://your-icon-link)](https://your-language-link)
-[![Python](https://your-icon-link)](https://your-language-link)
-[![Dart](https://your-icon-link)](https://your-language-link)
+[![C++](assets/cplusplus.svg =40x40)](https://your-language-link) 
+[![Java](assets/java.svg =40x40)](https://your-language-link)
+[![C#](assets/csharp.svg =40x40)](https://your-language-link)
+[![Python](assets/python.svg =40x40)](https://your-language-link)
+[![Dart](assets/dart.svg =40x40)](https://your-language-link)
 
 ## Projects
 - Project 1: [Project Name](https://your-project-link)
