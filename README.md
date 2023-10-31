@@ -27,9 +27,12 @@ This repository showcases my personal projects and accomplishments in the field 
 
 <br>
 
-- Project 1: **Video Game Development**
-  - **Description:** Throughout the years I've made videogames using C# and the unity game engine. I also draw all of my own art, create most
-  of my own sounds, and compose my own music. I've games uploaded on itch.io as well as one on steam.
+- **Video Game Development** 
+  - Created a nine different video games using the Unity Game Engine, C#, my own music, sound effects, and all original art assets, which I have published on various platforms including itch.io and steam
+
+ 
+- **Machine Learning Independent Study and Syllabus Creation** 
+  - Conducted independent research into stable baselines, python, and the Pygame library to create a syllabus for my high school on using reinforcement learning to teach an agent to play a Pygame game of the student’s own creation
 
 <br>
 
