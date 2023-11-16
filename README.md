@@ -29,6 +29,7 @@ This repository showcases my personal projects and accomplishments in the field 
   <img src="assets/python.svg" alt="Python" width="40" height="40">
   <img src="assets/dart.svg" alt="Dart" width="40" height="40">
   <img src="assets/flutter.svg" alt="Flutter" width="40" height="40">
+  <img src="assets/react.svg" alt="Flutter" width="40" height="40">
   <img src="assets/unity.svg" alt="Dart" width="40" height="40">
 </p>
 
