@@ -60,6 +60,7 @@ This repository showcases my personal projects and accomplishments in the field 
 
 ## 🫅 Leadership Experience
 
+- ACM Workshop Coordinator 
 - ACM Underclassman Rep
 - Varsity Tennis Captain
 - Varsity Cross Country Captain
